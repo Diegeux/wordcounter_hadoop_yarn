@@ -1,3 +1,5 @@
+![Hadoop](https://user-images.githubusercontent.com/39379425/167266549-5661b21d-4f4c-4bc4-971a-d82012620689.png)
+
 # Wordcounter with Hadoop
 We're going to develop a project which is going to count how many times the words appear in the file. For it, we're going to make use of Hadoop and its modules to process 
 big data in a parallel and distributed way, such as:
